@@ -1,0 +1,20 @@
+{
+  "name": "Curso_web_Diego_Salvador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegosalvador64/Curso_web_Diego_Salvador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegosalvador64/Curso_web_Diego_Salvador/issues"
+  },
+  "homepage": "https://github.com/diegosalvador64/Curso_web_Diego_Salvador#readme"
+}
