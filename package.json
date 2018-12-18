@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/diegosalvador64/Curso_web_Diego_Salvador/issues"
   },
-  "homepage": "https://github.com/diegosalvador64/Curso_web_Diego_Salvador#readme"
+  "homepage": "https://github.com/diegosalvador64/Curso_web_Diego_Salvador#readme",
+  "dependencies": {}
 }
