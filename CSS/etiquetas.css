@@ -1,7 +1,31 @@
+body{
+    margin-left: 5rem;
+    margin-right: 1rem; 
+    
+}
+body>header, footer {background-color: khaki;
+color: darkgreen;
+padding: 1rem;}
+/* El estilo se aplica a listas dentro de nav */
 nav ol, nav ul {
+    margin: 0%;
+    padding: 0%;
     list-style: none;
 }
+footer {
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+}
+/* El estilo se aplica a listas para ponerlas en horizontal, como en menús */
+nav li{
+    display: inline-block;
+}
+/* Crear botoncitos para el menú */
 nav a {
     text-decoration: none;
     color: inherit;
+    display: block;
+    padding: 0.3rem 1rem;
+    /* border: 1px solid; */
+   
 }
