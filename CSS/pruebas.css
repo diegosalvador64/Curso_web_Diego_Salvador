@@ -1,0 +1,9 @@
+body {
+    display: block; background-color: darksalmon; color: blue;
+}
+div {
+    background-color: aliceblue; color: blueviolet
+}
+span>p {
+    background-color: black; color: azure;
+}
