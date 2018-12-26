@@ -1,9 +1,17 @@
 body {
     display: block; background-color: darksalmon; color: blue;
 }
-div {
+div>p {
     background-color: aliceblue; color: blueviolet
-}
+} 
 span>p {
-    background-color: black; color: azure;
+    background-color: rgba(0, 0, 0, 0.466); color: rgb(158, 238, 238);
 }
+h1 {
+    color: rgb(31, 24, 27);
+    text-decoration: none;
+   /* color: inherit;*/
+    display: block;
+    padding: 0.3rem 1rem;
+}
+
